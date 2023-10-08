@@ -1,0 +1,8 @@
+name: Emojis
+version: '${project.version}'
+main: dev.myclxss.Emojis
+author: myclxss
+
+commands:
+  emojis:
+    description: main command

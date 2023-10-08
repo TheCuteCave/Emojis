@@ -1,0 +1,8 @@
+TITLE: "&6&lEMOJIS QUE PUEDES UTILIZAR"
+EMOJIS:
+  CORAZON:
+    TEXT: "<3"
+    REPLACE: "&c&l❤"
+  VERIFIED:
+    TEXT: "like"
+    REPLACE: "&a&l✔"
